@@ -26,7 +26,10 @@ A smart and user-friendly timetable generator desktop application built with **P
 
 ## 📷 Screenshot
 
-![Timetable Output](screenshots/output.png)
+![Timetable Output](sem_3_secA.jpg)
+![Timetable Output](sem_3_secB.jpg)
+![Timetable Output](combined_teacherTT.jpg)
+
 
 
 
