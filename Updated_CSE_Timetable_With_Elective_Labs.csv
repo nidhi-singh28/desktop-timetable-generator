@@ -1,0 +1,273 @@
+day,time,subject,instructor,room_no,room_type,semester,teacher_workload,faculty_type,section
+Monday,9:00,Digital Electronics,Faculty_2,502,theory,3,17,guest,A
+Tuesday,9:00,Data structure & Algorithms,Faculty_1,401,theory,3,17,guest,A
+Wednesday,9:00,Object Oriented Programming,Faculty_8,502,theory,3,20,guest,A
+Thursday,9:00,Mathematics-III,Faculty_4,401,theory,3,20,guest,A
+Friday,9:00,Foundation Course in Humanities,Faculty_13,401,theory,3,16,regular,A
+Monday,10:00,Digital Electronics Lab,Faculty_2,501,lab,3,17,guest,A
+Tuesday,10:00,Data structure & Algorithms Lab,Faculty_1,cc1,lab,3,17,guest,A
+Wednesday,10:00,Object Oriented Programming Lab,Faculty_8,cc2,lab,3,20,guest,A
+Thursday,10:00,IT Workshop,Faculty_4,cc3,lab,3,20,guest,A
+Monday,9:00,Discrete Mathematics,Faculty_6,502,theory,4,17,guest,B
+Tuesday,9:00,Computer Organization & Architecture,Faculty_13,501,theory,4,16,regular,B
+Wednesday,9:00,Operating Systems,Faculty_14,502,theory,4,16,regular,B
+Thursday,9:00,Design & Analysis of Algorithms,Faculty_2,401,theory,4,17,guest,B
+Friday,9:00,Universal Human Values 2,Faculty_15,502,theory,4,16,regular,B
+Monday,10:00,Computer Organization & Architecture Lab,Faculty_13,cc4,lab,4,16,regular,B
+Tuesday,10:00,Operating Systems Lab,Faculty_14,501,lab,4,16,regular,B
+Wednesday,10:00,Design & Analysis of Algorithms Lab,Faculty_2,cc1,lab,4,17,guest,B
+Thursday,10:00,Environmental Sciences,Faculty_15,502,theory,4,16,regular,B
+Monday,9:00,Database Management Systems,Faculty_3,502,theory,5,22,guest,C
+Tuesday,9:00,Software Engineering,Faculty_12,502,theory,5,16,regular,C
+Wednesday,9:00,Computer Networks,Faculty_6,501,theory,5,17,guest,C
+Thursday,9:00,Formal Language & Automata Theory,Faculty_3,401,theory,5,22,guest,C
+Friday,9:00,Elective-I,Faculty_4,501,theory,5,20,guest,C
+Monday,10:00,Database Management Systems Lab,Faculty_3,cc2,lab,5,22,guest,C
+Tuesday,10:00,Software Engineering Lab,Faculty_12,cc3,lab,5,16,regular,C
+Wednesday,10:00,Computer Networks Lab,Faculty_6,cc4,lab,5,17,guest,C
+Thursday,10:00,Constitution of India,Faculty_15,502,theory,5,16,regular,C
+Monday,9:00,Compiler Design,Faculty_8,502,theory,6,20,guest,D
+Tuesday,9:00,Artificial Intelligence,Faculty_9,401,theory,6,19,guest,D
+Wednesday,9:00,Elective-II,Faculty_7,502,theory,6,17,guest,D
+Thursday,9:00,Elective-III,Faculty_10,501,theory,6,17,guest,D
+Friday,9:00,Open Elective-I,Faculty_6,501,theory,6,17,guest,D
+Monday,10:00,Compiler Design Lab,Faculty_8,cc1,lab,6,20,guest,D
+Tuesday,10:00,Artificial Intelligence Lab,Faculty_9,cc2,lab,6,19,guest,D
+Wednesday,10:00,Elective-II Lab,Faculty_7,cc3,lab,6,17,guest,D
+Thursday,10:00,Project-1,Faculty_3,502,theory,6,22,guest,D
+Monday,9:00,Network Security and Cryptography,Faculty_13,501,theory,7,16,regular,E
+Tuesday,9:00,Data Mining and Data Warehousing,Faculty_8,401,theory,7,20,guest,E
+Wednesday,9:00,Open Elective-II,Faculty_5,502,theory,7,19,guest,E
+Thursday,9:00,Elective-IV,Faculty_3,502,theory,7,22,guest,E
+Friday,9:00,Elective-V,Faculty_6,401,theory,7,17,guest,E
+Monday,10:00,Elective-IV Lab,Faculty_13,cc4,lab,7,16,regular,E
+Tuesday,10:00,Elective-V Lab,Faculty_8,cc1,lab,7,20,guest,E
+Wednesday,10:00,Project-II,Faculty_5,502,theory,7,19,guest,E
+Thursday,10:00,Essence of Indian Traditional Knowledge,Faculty_15,502,theory,7,16,regular,E
+Monday,10:00,Digital Electronics,Faculty_5,504,theory,3,17,guest,D
+Tuesday,10:00,Data structure & Algorithms,Faculty_20,402,theory,3,17,guest,C
+Wednesday,10:00,Object Oriented Programming,Faculty_4,503,theory,3,20,guest,C
+Thursday,10:00,Mathematics-III,Faculty_3,402,theory,3,20,guest,B
+Friday,11:00,Foundation Course in Humanities,Faculty_6,402,theory,3,16,regular,B
+Monday,11:00,Digital Electronics Lab,Faculty_11,503,lab,3,17,guest,C
+Tuesday,12:00,Data structure & Algorithms Lab,Faculty_19,cc1,lab,3,17,guest,D
+Wednesday,12:00,Object Oriented Programming Lab,Faculty_16,cc2,lab,3,20,guest,D
+Thursday,11:00,IT Workshop,Faculty_9,cc3,lab,3,20,guest,B
+Monday,10:00,Discrete Mathematics,Faculty_12,504,theory,4,17,guest,D
+Tuesday,11:00,Computer Organization & Architecture,Faculty_5,504,theory,4,16,regular,C
+Wednesday,11:00,Operating Systems,Faculty_3,505,theory,4,16,regular,D
+Thursday,10:00,Design & Analysis of Algorithms,Faculty_13,402,theory,4,17,guest,C
+Friday,11:00,Universal Human Values 2,Faculty_2,504,theory,4,16,regular,A
+Monday,11:00,Computer Organization & Architecture Lab,Faculty_19,cc4,lab,4,16,regular,B
+Tuesday,12:00,Operating Systems Lab,Faculty_15,504,lab,4,16,regular,B
+Wednesday,12:00,Design & Analysis of Algorithms Lab,Faculty_7,cc1,lab,4,17,guest,E
+Thursday,11:00,Environmental Sciences,Faculty_15,504,theory,4,16,regular,D
+Monday,10:00,Database Management Systems,Faculty_9,505,theory,5,22,guest,E
+Tuesday,10:00,Software Engineering,Faculty_15,505,theory,5,16,regular,E
+Wednesday,10:00,Computer Networks,Faculty_5,503,theory,5,17,guest,A
+Thursday,10:00,Formal Language & Automata Theory,Faculty_6,402,theory,5,22,guest,E
+Friday,10:00,Elective-I,Faculty_16,504,theory,5,20,guest,A
+Monday,11:00,Database Management Systems Lab,Faculty_6,cc2,lab,5,22,guest,D
+Tuesday,12:00,Software Engineering Lab,Faculty_20,cc3,lab,5,16,regular,A
+Wednesday,12:00,Computer Networks Lab,Faculty_4,cc4,lab,5,17,guest,C
+Thursday,12:00,Constitution of India,Faculty_4,503,theory,5,16,regular,A
+Monday,10:00,Compiler Design,Faculty_11,504,theory,6,20,guest,C
+Tuesday,11:00,Artificial Intelligence,Faculty_3,402,theory,6,19,guest,D
+Wednesday,10:00,Elective-II,Faculty_16,503,theory,6,17,guest,D
+Thursday,10:00,Elective-III,Faculty_4,504,theory,6,17,guest,D
+Friday,10:00,Open Elective-I,Faculty_18,503,theory,6,17,guest,B
+Monday,11:00,Compiler Design Lab,Faculty_13,cc1,lab,6,20,guest,E
+Tuesday,12:00,Artificial Intelligence Lab,Faculty_14,cc2,lab,6,19,guest,A
+Wednesday,12:00,Elective-II Lab,Faculty_9,cc3,lab,6,17,guest,D
+Thursday,12:00,Project-1,Faculty_8,503,theory,6,22,guest,E
+Monday,10:00,Network Security and Cryptography,Faculty_11,504,theory,7,16,regular,E
+Tuesday,11:00,Data Mining and Data Warehousing,Faculty_20,403,theory,7,20,guest,A
+Wednesday,10:00,Open Elective-II,Faculty_16,505,theory,7,19,guest,D
+Thursday,11:00,Elective-IV,Faculty_13,504,theory,7,22,guest,C
+Friday,11:00,Elective-V,Faculty_4,403,theory,7,17,guest,D
+Monday,11:00,Elective-IV Lab,Faculty_12,cc4,lab,7,16,regular,D
+Tuesday,11:00,Elective-V Lab,Faculty_4,cc1,lab,7,20,guest,E
+Wednesday,12:00,Project-II,Faculty_11,504,theory,7,19,guest,A
+Thursday,11:00,Essence of Indian Traditional Knowledge,Faculty_11,504,theory,7,16,regular,A
+Monday,11:00,Digital Electronics,Faculty_10,503,theory,3,17,guest,D
+Tuesday,11:00,Data structure & Algorithms,Faculty_6,402,theory,3,17,guest,C
+Wednesday,10:00,Object Oriented Programming,Faculty_3,505,theory,3,20,guest,D
+Thursday,11:00,Mathematics-III,Faculty_4,403,theory,3,20,guest,D
+Friday,10:00,Foundation Course in Humanities,Faculty_8,402,theory,3,16,regular,B
+Monday,11:00,Digital Electronics Lab,Faculty_15,502,lab,3,17,guest,A
+Tuesday,11:00,Data structure & Algorithms Lab,Faculty_13,cc1,lab,3,17,guest,C
+Wednesday,11:00,Object Oriented Programming Lab,Faculty_14,cc2,lab,3,20,guest,A
+Thursday,11:00,IT Workshop,Faculty_2,cc3,lab,3,20,guest,A
+Monday,11:00,Discrete Mathematics,Faculty_2,504,theory,4,17,guest,A
+Tuesday,10:00,Computer Organization & Architecture,Faculty_12,503,theory,4,16,regular,A
+Wednesday,11:00,Operating Systems,Faculty_3,503,theory,4,16,regular,C
+Thursday,11:00,Design & Analysis of Algorithms,Faculty_10,402,theory,4,17,guest,D
+Friday,10:00,Universal Human Values 2,Faculty_3,505,theory,4,16,regular,B
+Monday,11:00,Computer Organization & Architecture Lab,Faculty_7,cc4,lab,4,16,regular,B
+Tuesday,12:00,Operating Systems Lab,Faculty_10,502,lab,4,16,regular,E
+Wednesday,12:00,Design & Analysis of Algorithms Lab,Faculty_10,cc1,lab,4,17,guest,A
+Thursday,11:00,Environmental Sciences,Faculty_10,503,theory,4,16,regular,E
+Monday,11:00,Database Management Systems,Faculty_14,504,theory,5,22,guest,B
+Tuesday,11:00,Software Engineering,Faculty_9,504,theory,5,16,regular,C
+Wednesday,10:00,Computer Networks,Faculty_1,503,theory,5,17,guest,A
+Thursday,11:00,Formal Language & Automata Theory,Faculty_16,404,theory,5,22,guest,A
+Friday,11:00,Elective-I,Faculty_10,504,theory,5,20,guest,D
+Monday,11:00,Database Management Systems Lab,Faculty_9,cc2,lab,5,22,guest,D
+Tuesday,11:00,Software Engineering Lab,Faculty_6,cc3,lab,5,16,regular,B
+Wednesday,11:00,Computer Networks Lab,Faculty_16,cc4,lab,5,17,guest,E
+Thursday,12:00,Constitution of India,Faculty_12,504,theory,5,16,regular,D
+Monday,11:00,Compiler Design,Faculty_3,504,theory,6,20,guest,B
+Tuesday,11:00,Artificial Intelligence,Faculty_20,404,theory,6,19,guest,D
+Wednesday,10:00,Elective-II,Faculty_5,504,theory,6,17,guest,B
+Thursday,10:00,Elective-III,Faculty_19,503,theory,6,17,guest,C
+Friday,11:00,Open Elective-I,Faculty_17,502,theory,6,17,guest,B
+Monday,12:00,Compiler Design Lab,Faculty_1,cc1,lab,6,20,guest,C
+Tuesday,12:00,Artificial Intelligence Lab,Faculty_17,cc2,lab,6,19,guest,E
+Wednesday,12:00,Elective-II Lab,Faculty_6,cc3,lab,6,17,guest,E
+Thursday,11:00,Project-1,Faculty_8,505,theory,6,22,guest,D
+Monday,11:00,Network Security and Cryptography,Faculty_6,502,theory,7,16,regular,A
+Tuesday,10:00,Data Mining and Data Warehousing,Faculty_11,402,theory,7,20,guest,B
+Wednesday,10:00,Open Elective-II,Faculty_7,505,theory,7,19,guest,D
+Thursday,10:00,Elective-IV,Faculty_9,503,theory,7,22,guest,B
+Friday,11:00,Elective-V,Faculty_4,403,theory,7,17,guest,D
+Monday,12:00,Elective-IV Lab,Faculty_6,cc4,lab,7,16,regular,D
+Tuesday,12:00,Elective-V Lab,Faculty_19,cc1,lab,7,20,guest,E
+Wednesday,11:00,Project-II,Faculty_15,504,theory,7,19,guest,E
+Thursday,11:00,Essence of Indian Traditional Knowledge,Faculty_10,503,theory,7,16,regular,C
+Monday,10:00,Digital Electronics,Faculty_2,504,theory,3,17,guest,A
+Tuesday,11:00,Data structure & Algorithms,Faculty_19,403,theory,3,17,guest,C
+Wednesday,10:00,Object Oriented Programming,Faculty_19,505,theory,3,20,guest,B
+Thursday,10:00,Mathematics-III,Faculty_11,404,theory,3,20,guest,C
+Friday,11:00,Foundation Course in Humanities,Faculty_12,404,theory,3,16,regular,C
+Monday,12:00,Digital Electronics Lab,Faculty_15,503,lab,3,17,guest,E
+Tuesday,11:00,Data structure & Algorithms Lab,Faculty_12,cc1,lab,3,17,guest,C
+Wednesday,11:00,Object Oriented Programming Lab,Faculty_13,cc2,lab,3,20,guest,D
+Thursday,11:00,IT Workshop,Faculty_1,cc3,lab,3,20,guest,A
+Monday,10:00,Discrete Mathematics,Faculty_5,504,theory,4,17,guest,C
+Tuesday,10:00,Computer Organization & Architecture,Faculty_7,502,theory,4,16,regular,E
+Wednesday,10:00,Operating Systems,Faculty_9,505,theory,4,16,regular,E
+Thursday,11:00,Design & Analysis of Algorithms,Faculty_8,404,theory,4,17,guest,E
+Friday,11:00,Universal Human Values 2,Faculty_14,505,theory,4,16,regular,E
+Monday,11:00,Computer Organization & Architecture Lab,Faculty_18,cc4,lab,4,16,regular,C
+Tuesday,12:00,Operating Systems Lab,Faculty_10,504,lab,4,16,regular,D
+Wednesday,11:00,Design & Analysis of Algorithms Lab,Faculty_6,cc1,lab,4,17,guest,D
+Thursday,12:00,Environmental Sciences,Faculty_11,503,theory,4,16,regular,A
+Monday,11:00,Database Management Systems,Faculty_15,503,theory,5,22,guest,D
+Tuesday,11:00,Software Engineering,Faculty_1,503,theory,5,16,regular,E
+Wednesday,10:00,Computer Networks,Faculty_13,503,theory,5,17,guest,B
+Thursday,11:00,Formal Language & Automata Theory,Faculty_9,403,theory,5,22,guest,E
+Friday,11:00,Elective-I,Faculty_9,503,theory,5,20,guest,C
+Monday,12:00,Database Management Systems Lab,Faculty_20,cc2,lab,5,22,guest,C
+Tuesday,12:00,Software Engineering Lab,Faculty_9,cc3,lab,5,16,regular,D
+Wednesday,12:00,Computer Networks Lab,Faculty_19,cc4,lab,5,17,guest,E
+Thursday,12:00,Constitution of India,Faculty_20,504,theory,5,16,regular,C
+Monday,11:00,Compiler Design,Faculty_15,504,theory,6,20,guest,A
+Tuesday,10:00,Artificial Intelligence,Faculty_12,402,theory,6,19,guest,D
+Wednesday,10:00,Elective-II,Faculty_3,505,theory,6,17,guest,C
+Thursday,11:00,Elective-III,Faculty_16,503,theory,6,17,guest,B
+Friday,10:00,Open Elective-I,Faculty_1,504,theory,6,17,guest,E
+Monday,11:00,Compiler Design Lab,Faculty_6,cc1,lab,6,20,guest,D
+Tuesday,12:00,Artificial Intelligence Lab,Faculty_3,cc2,lab,6,19,guest,C
+Wednesday,11:00,Elective-II Lab,Faculty_16,cc3,lab,6,17,guest,C
+Thursday,12:00,Project-1,Faculty_11,503,theory,6,22,guest,E
+Monday,11:00,Network Security and Cryptography,Faculty_7,503,theory,7,16,regular,B
+Tuesday,10:00,Data Mining and Data Warehousing,Faculty_11,404,theory,7,20,guest,D
+Wednesday,10:00,Open Elective-II,Faculty_17,503,theory,7,19,guest,B
+Thursday,10:00,Elective-IV,Faculty_16,503,theory,7,22,guest,C
+Friday,10:00,Elective-V,Faculty_20,403,theory,7,17,guest,C
+Monday,11:00,Elective-IV Lab,Faculty_17,cc4,lab,7,16,regular,C
+Tuesday,11:00,Elective-V Lab,Faculty_17,cc1,lab,7,20,guest,A
+Wednesday,11:00,Project-II,Faculty_3,504,theory,7,19,guest,C
+Thursday,11:00,Essence of Indian Traditional Knowledge,Faculty_15,504,theory,7,16,regular,B
+Monday,10:00,Digital Electronics,Faculty_8,505,theory,3,17,guest,B
+Tuesday,10:00,Data structure & Algorithms,Faculty_19,404,theory,3,17,guest,D
+Wednesday,10:00,Object Oriented Programming,Faculty_19,504,theory,3,20,guest,E
+Thursday,11:00,Mathematics-III,Faculty_15,404,theory,3,20,guest,E
+Friday,10:00,Foundation Course in Humanities,Faculty_14,404,theory,3,16,regular,A
+Monday,12:00,Digital Electronics Lab,Faculty_8,503,lab,3,17,guest,D
+Tuesday,12:00,Data structure & Algorithms Lab,Faculty_18,cc1,lab,3,17,guest,D
+Wednesday,11:00,Object Oriented Programming Lab,Faculty_9,cc2,lab,3,20,guest,B
+Thursday,12:00,IT Workshop,Faculty_13,cc3,lab,3,20,guest,E
+Monday,11:00,Discrete Mathematics,Faculty_13,503,theory,4,17,guest,D
+Tuesday,11:00,Computer Organization & Architecture,Faculty_6,502,theory,4,16,regular,E
+Wednesday,10:00,Operating Systems,Faculty_16,505,theory,4,16,regular,B
+Thursday,11:00,Design & Analysis of Algorithms,Faculty_12,404,theory,4,17,guest,E
+Friday,10:00,Universal Human Values 2,Faculty_7,505,theory,4,16,regular,A
+Monday,12:00,Computer Organization & Architecture Lab,Faculty_8,cc4,lab,4,16,regular,E
+Tuesday,12:00,Operating Systems Lab,Faculty_7,503,lab,4,16,regular,D
+Wednesday,11:00,Design & Analysis of Algorithms Lab,Faculty_15,cc1,lab,4,17,guest,C
+Thursday,11:00,Environmental Sciences,Faculty_8,504,theory,4,16,regular,B
+Monday,11:00,Database Management Systems,Faculty_7,504,theory,5,22,guest,B
+Tuesday,10:00,Software Engineering,Faculty_7,504,theory,5,16,regular,A
+Wednesday,11:00,Computer Networks,Faculty_19,504,theory,5,17,guest,D
+Thursday,10:00,Formal Language & Automata Theory,Faculty_12,403,theory,5,22,guest,E
+Friday,11:00,Elective-I,Faculty_14,504,theory,5,20,guest,E
+Monday,11:00,Database Management Systems Lab,Faculty_10,cc2,lab,5,22,guest,E
+Tuesday,12:00,Software Engineering Lab,Faculty_20,cc3,lab,5,16,regular,B
+Wednesday,11:00,Computer Networks Lab,Faculty_2,cc4,lab,5,17,guest,D
+Thursday,11:00,Constitution of India,Faculty_15,504,theory,5,16,regular,D
+Monday,11:00,Compiler Design,Faculty_9,504,theory,6,20,guest,B
+Tuesday,11:00,Artificial Intelligence,Faculty_11,403,theory,6,19,guest,E
+Wednesday,10:00,Elective-II,Faculty_6,504,theory,6,17,guest,B
+Thursday,10:00,Elective-III,Faculty_4,504,theory,6,17,guest,E
+Friday,10:00,Open Elective-I,Faculty_7,503,theory,6,17,guest,B
+Monday,11:00,Compiler Design Lab,Faculty_18,cc1,lab,6,20,guest,B
+Tuesday,12:00,Artificial Intelligence Lab,Faculty_15,cc2,lab,6,19,guest,C
+Wednesday,12:00,Elective-II Lab,Faculty_12,cc3,lab,6,17,guest,E
+Thursday,12:00,Project-1,Faculty_13,503,theory,6,22,guest,D
+Monday,10:00,Network Security and Cryptography,Faculty_9,504,theory,7,16,regular,B
+Tuesday,11:00,Data Mining and Data Warehousing,Faculty_13,404,theory,7,20,guest,D
+Wednesday,10:00,Open Elective-II,Faculty_19,503,theory,7,19,guest,B
+Thursday,10:00,Elective-IV,Faculty_18,503,theory,7,22,guest,D
+Friday,10:00,Elective-V,Faculty_14,404,theory,7,17,guest,E
+Monday,12:00,Elective-IV Lab,Faculty_6,cc4,lab,7,16,regular,C
+Tuesday,11:00,Elective-V Lab,Faculty_7,cc1,lab,7,20,guest,E
+Wednesday,11:00,Project-II,Faculty_7,503,theory,7,19,guest,E
+Thursday,12:00,Essence of Indian Traditional Knowledge,Faculty_15,504,theory,7,16,regular,C
+Monday,11:00,Digital Electronics,Faculty_7,505,theory,3,17,guest,D
+Tuesday,10:00,Data structure & Algorithms,Faculty_6,402,theory,3,17,guest,D
+Wednesday,10:00,Object Oriented Programming,Faculty_19,503,theory,3,20,guest,B
+Thursday,11:00,Mathematics-III,Faculty_17,404,theory,3,20,guest,A
+Friday,10:00,Foundation Course in Humanities,Faculty_8,403,theory,3,16,regular,A
+Monday,11:00,Digital Electronics Lab,Faculty_14,502,lab,3,17,guest,B
+Tuesday,12:00,Data structure & Algorithms Lab,Faculty_7,cc1,lab,3,17,guest,A
+Wednesday,12:00,Object Oriented Programming Lab,Faculty_1,cc2,lab,3,20,guest,D
+Thursday,11:00,IT Workshop,Faculty_6,cc3,lab,3,20,guest,E
+Monday,11:00,Discrete Mathematics,Faculty_5,503,theory,4,17,guest,C
+Tuesday,11:00,Computer Organization & Architecture,Faculty_17,503,theory,4,16,regular,D
+Wednesday,11:00,Operating Systems,Faculty_20,505,theory,4,16,regular,E
+Thursday,10:00,Design & Analysis of Algorithms,Faculty_5,404,theory,4,17,guest,B
+Friday,10:00,Universal Human Values 2,Faculty_12,503,theory,4,16,regular,D
+Monday,11:00,Computer Organization & Architecture Lab,Faculty_4,cc4,lab,4,16,regular,C
+Tuesday,12:00,Operating Systems Lab,Faculty_9,503,lab,4,16,regular,B
+Wednesday,12:00,Design & Analysis of Algorithms Lab,Faculty_13,cc1,lab,4,17,guest,C
+Thursday,11:00,Environmental Sciences,Faculty_15,503,theory,4,16,regular,B
+Monday,11:00,Database Management Systems,Faculty_16,503,theory,5,22,guest,A
+Tuesday,10:00,Software Engineering,Faculty_3,505,theory,5,16,regular,B
+Wednesday,10:00,Computer Networks,Faculty_6,504,theory,5,17,guest,D
+Thursday,10:00,Formal Language & Automata Theory,Faculty_6,402,theory,5,22,guest,D
+Friday,11:00,Elective-I,Faculty_9,503,theory,5,20,guest,B
+Monday,12:00,Database Management Systems Lab,Faculty_1,cc2,lab,5,22,guest,B
+Tuesday,12:00,Software Engineering Lab,Faculty_6,cc3,lab,5,16,regular,A
+Wednesday,12:00,Computer Networks Lab,Faculty_9,cc4,lab,5,17,guest,D
+Thursday,11:00,Constitution of India,Faculty_10,504,theory,5,16,regular,D
+Monday,11:00,Compiler Design,Faculty_12,504,theory,6,20,guest,E
+Tuesday,11:00,Artificial Intelligence,Faculty_19,403,theory,6,19,guest,E
+Wednesday,11:00,Elective-II,Faculty_4,504,theory,6,17,guest,C
+Thursday,11:00,Elective-III,Faculty_20,503,theory,6,17,guest,B
+Friday,11:00,Open Elective-I,Faculty_18,503,theory,6,17,guest,A
+Monday,11:00,Compiler Design Lab,Faculty_20,cc1,lab,6,20,guest,D
+Tuesday,12:00,Artificial Intelligence Lab,Faculty_10,cc2,lab,6,19,guest,B
+Wednesday,12:00,Elective-II Lab,Faculty_1,cc3,lab,6,17,guest,B
+Thursday,12:00,Project-1,Faculty_17,505,theory,6,22,guest,D
+Monday,10:00,Network Security and Cryptography,Faculty_11,503,theory,7,16,regular,A
+Tuesday,11:00,Data Mining and Data Warehousing,Faculty_3,403,theory,7,20,guest,C
+Wednesday,10:00,Open Elective-II,Faculty_1,503,theory,7,19,guest,C
+Thursday,10:00,Elective-IV,Faculty_2,504,theory,7,22,guest,B
+Friday,11:00,Elective-V,Faculty_10,404,theory,7,17,guest,B
+Monday,12:00,Elective-IV Lab,Faculty_14,cc4,lab,7,16,regular,C
+Tuesday,12:00,Elective-V Lab,Faculty_8,cc1,lab,7,20,guest,D
+Wednesday,12:00,Project-II,Faculty_1,503,theory,7,19,guest,B
+Thursday,12:00,Essence of Indian Traditional Knowledge,Faculty_2,504,theory,7,16,regular,D
+Friday,9:00,Elective-I Lab,Faculty_4,cc2,lab,5,20,guest,C
+Thursday,9:00,Elective-III Lab,Faculty_10,cc1,lab,6,17,guest,D
