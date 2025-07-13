@@ -2,6 +2,8 @@
 
 A smart and user-friendly timetable generator desktop application built with **PyQt5** and powered by a **Genetic Algorithm**. The app supports **Admin, Teacher, and Student roles**, allowing login, viewing, editing, and downloading timetables.
 
+> 👥 This project was developed as a team project during the 6th semester (3rd year) of B.Tech CSE.
+
 ---
 
 ## 💡 Key Features
@@ -23,6 +25,11 @@ A smart and user-friendly timetable generator desktop application built with **P
 - Genetic Algorithm (custom implementation)
 
 ---
+
+## 🤝 Team Acknowledgement
+
+This project was built collaboratively during the 6th semester of my B.Tech in Computer Science.  
+This repository contains only a partial version of the full project for demonstration purposes.
 
 ## 📷 Screenshot
 
