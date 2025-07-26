@@ -37,6 +37,9 @@ This repository contains only a partial version of the full project for demonstr
 ![Timetable Output](sem_3_secB.jpg)
 ![Timetable Output](combined_teacherTT.jpg)
 
+📄 [View Role-Based Access Demo (PDF)](link) – Shows different user roles (Admin, Teacher, Student) with UI screenshots.
+
+
 
 
 
